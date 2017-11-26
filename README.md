@@ -9,7 +9,7 @@ More tutorials at [pointDeveloper.com](http://pointdeveloper.com/)
 
 [![donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG_global.gif)](https://www.paypal.me/prantikv)
 
-I dedicate a considerable amount of my free time to developing and maintaining this tutorial post, along with my other tutorials.
+I dedicate a considerable amount of my free time developing and maintaining this tutorial post, along with my other tutorials.
 To help ensure this post / repo  is kept updated, new features are added and bug fixes are implemented quickly, please donate a couple of dollars (or a little more if you can stretch) as this will help me to afford to dedicate time to its maintenance. Please consider donating if you found this helpful.
 
 ## Full Tutorial Courses

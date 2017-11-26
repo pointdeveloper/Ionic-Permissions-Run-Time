@@ -1,16 +1,24 @@
 ### :point_right: Files for Tutorial at [http://pointdeveloper.com/ionic-requesting-permissions-at-run-time](http://pointdeveloper.com/ionic-requesting-permissions-at-run-time)  :point_left:
 <br/>
 
-## More Tutorials
 
-More tutorials at [pointDeveloper.com](http://pointdeveloper.com/)
 <br/>
 <br/>
 
 [![donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG_global.gif)](https://www.paypal.me/prantikv)
 
+
 I dedicate a considerable amount of my free time developing and maintaining this tutorial post, along with my other tutorials.
 To help ensure this post / repo  is kept updated, new features are added and bug fixes are implemented quickly, please donate a couple of dollars (or a little more if you can stretch) as this will help me to afford to dedicate time to its maintenance. Please consider donating if you found this helpful.
+
+
+<br/>
+<br/>
+
+## More Tutorials
+
+More tutorials at [pointDeveloper.com](http://pointdeveloper.com/)
+
 
 ## Full Tutorial Courses
 
